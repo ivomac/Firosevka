@@ -1,0 +1,17 @@
+pkgbase = ttf-firosevka
+	pkgdesc = Iosevka extended fixed font with the fira mono patch
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://typeof.net/Iosevka/
+	arch = any
+	license = OFL
+	source = Firosevka-Bold.ttf
+	source = Firosevka-BoldItalic.ttf
+	source = Firosevka-Italic.ttf
+	source = Firosevka-Regular.ttf
+	sha256sums = 7b93d424adf50c2e14eab1fd063cdaeb8af28927d4850646dd6e7bdebfeb5bea
+	sha256sums = d39acc8dd28c141add7b6c25fa83dfcd9755a69c3fc164eef42a6bd2d765fc54
+	sha256sums = 4a0bd4d65be49078842ef26d6ec6fa053ad77ae4167e295c09426dad9dbca327
+	sha256sums = 2ac669fb8d97ab7a9167565bcec9bbed6acc179cbc05473fe35959133acc7012
+
+pkgname = ttf-firosevka

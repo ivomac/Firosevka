@@ -1,0 +1,37 @@
+[buildPlans.Firosevka]
+family = "Firosevka"
+spacing = "fixed"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+noLigation = true
+
+[buildPlans.Firosevka.variants]
+inherits = "ss05"
+
+[buildPlans.Firosevka.weights.Regular]
+shape = 500
+menu = 400
+css = 500
+
+[buildPlans.Firosevka.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.Firosevka.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.Firosevka.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.Firosevka.slopes.Italic]
+angle = 9.4
+shape = "oblique"
+menu = "italic"
+css = "oblique"
